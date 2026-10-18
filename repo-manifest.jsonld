@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sumerc/yappi/commit/c2f6d4384e01e3beda62a03dc3c8734aefd6bac0",
       "git:hexsha": "c2f6d4384e01e3beda62a03dc3c8734aefd6bac0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:31:36.224136+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sumerc/yappi/commit/e991cdf92052d8c647412b07dddcea58b478f957",
